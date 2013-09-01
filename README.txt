@@ -10,6 +10,7 @@ Galaxy map - U (U for universe)
 Parachute Ascend - Up
 Parachute descend - Down
 pocket crafting table - I
+Voxel map menu - P
 
 LEGAL:
 
