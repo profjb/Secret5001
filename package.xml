@@ -17,6 +17,10 @@
     <filegroup dest="config/abo/" source="config/abo/">
         <file size="750" version="3370decdfde3e7d275b34a65e6aead86">main.conf</file>
     </filegroup>
+    <filegroup dest="config/ArsMagica/" source="config/ArsMagica/">
+        <file size="10757" version="9b6fd447dea131c42426b7bc8d8a2501">AM_Main.cfg</file>
+        <file size="110324" version="916d00bcea4eafc6fa8ed5eedae41f8d">AM_Power.cfg</file>
+    </filegroup>
     <filegroup dest="config/buildcraft/" source="config/buildcraft/">
         <file size="4372" version="20c1e218dd5c9d1c82fc65fc4c2a4095">main.conf</file>
     </filegroup>
@@ -29,6 +33,10 @@
         <file size="4795" version="5ad5d52afe051b59c558478838598b31">ThermalExpansion.cfg</file>
         <file size="6294" version="128a2dd09706e3e1ecfd27f45bfd5a9a">World.cfg</file>
         <file size="778" version="5c253e1b19b0597c7bc3e9fcf315ba1b">WorldCustomGen.txt</file>
+    </filegroup>
+    <filegroup dest="config/coralreef/" source="config/coralreef/">
+        <file size="185" version="dfec072b81c29f6fb77c0de0f042cdba">blockids.cfg</file>
+        <file size="281" version="d06397c33c36dfb2710973784335d5c3">settings.cfg</file>
     </filegroup>
     <filegroup dest="config/EE3/" source="config/EE3/">
         <file size="2138" version="d3b68acd9a70dbb6379715c7fa7da7e8">EE3.cfg</file>
@@ -58,7 +66,7 @@
         <file size="510" version="2454e8c93494489af8a533e5211ef40d">pipes.conf</file>
     </filegroup>
     <filegroup dest="config/Galacticraft/" source="config/Galacticraft/">
-        <file size="7371" version="f6b702a7ebe3206c911f7abfa9b49f49">core.conf</file>
+        <file size="7374" version="e4ea1b64bfec99b9871dbd80620c230c">core.conf</file>
         <file size="785" version="600550e6d5d16d80991db66a739c6a01">moon.conf</file>
     </filegroup>
     <filegroup dest="config/GregTech/" source="config/GregTech/">
@@ -142,11 +150,11 @@
         <file size="3739" version="bf5393b05ee8ba9d337e1accb09162b8">GraviGun.cfg</file>
         <file size="1356" version="55c9bdfcdfc4a5120b9f22a54bc8fd84">GraviSuite.cfg</file>
         <file size="675" version="8d8b988e64bf82820c9c66e02df95609">GregsLighting.cfg</file>
-        <file size="1244" version="adc855697be6a7e2c3635c0de41f6d1a">growthcraft_apples.cfg</file>
+        <file size="1244" version="6f31a7e479c1b12d61555415876562ea">growthcraft_apples.cfg</file>
         <file size="1044" version="ae35cfb20ec5f2fc6a2adf2deb0b8d6c">growthcraft_bamboo.cfg</file>
         <file size="315" version="e085a3bf0710d793470933169c027d26">growthcraft_core_cellar.cfg</file>
         <file size="354" version="f3b1d643f7efafd979093e55fc553de1">growthcraft_fishnet.cfg</file>
-        <file size="730" version="16149b913e0e8a769ab0603f1811d9d2">growthcraft_flowers.cfg</file>
+        <file size="730" version="aadd0e3be59b761e9f238308b6d5c5d7">growthcraft_flowers.cfg</file>
         <file size="1160" version="9708a095c3784582bb6f54c42dc21f9e">growthcraft_grapes.cfg</file>
         <file size="1083" version="e85d1e31af499451451aa504ff12cf12">growthcraft_hops.cfg</file>
         <file size="896" version="7420c267b9c518f43def852fd11ca415">growthcraft_rice.cfg</file>
@@ -184,6 +192,7 @@
         <file size="227" version="358c6e5b839fb9ea1550c95fd169e699">redcoalcraft.cfg</file>
         <file size="815" version="2ee305b3f4b4bd330ee511684b7e8645">secretroomsmod.cfg</file>
         <file size="1271" version="18d98b960ff8c54a6b8f4507b46e1412">SGCraft.cfg</file>
+        <file size="805" version="521413bf06f4f5ad1b38bf4ec45e97ba">SimplyHorses.cfg</file>
         <file size="3017" version="7ad6aaebbc0e704abffbfba4ac5a5744">StevesCarts.cfg</file>
         <file size="6194" version="9a6f24eeff554ee9ca238d9c9807cba7">Thaumcraft.cfg</file>
         <file size="2266" version="8ab13e1d6a7d83758f858d53fefffee4">ThaumicTinkerer.cfg</file>
@@ -197,6 +206,7 @@
     </filegroup>
     <filegroup dest="coremods/" source="coremods/">
         <file size="314452" version="ed61a9ea476f082a95e6bf17c45c0cde">CodeChickenCore 0.8.7.3.jar</file>
+        <file size="2932752" version="6c2f037fa62201d49e7956835bed20f9">Galacticraft-1.5.2-a0.1.36.410.jar</file>
         <file size="208822" version="8efaa3ea7c6e7097e9cb4d40e795a7af">immibis-microblocks-55.0.7.jar</file>
         <file size="378337" version="20b8d36eb3a4e0d7f59471f4a44293e9">NotEnoughItems 1.5.2.28.jar</file>
         <file size="133578" version="753288b3e3857b647665780cf4691310">PowerCrystalsCore-1.1.6-107.jar</file>
@@ -225,7 +235,7 @@
         <file size="154" version="cd45aa8638a732c6d7078db6ad95440d">voxelboards.properties</file>
         <file size="381" version="5c3d18659a7a1fa4ee0e44729deaa44e">voxelget.items.properties</file>
         <file size="187" version="0bab1eea807554f6269c991b2bb9b412">voxelget.properties</file>
-        <file size="594" version="16850f8876311e18979579d2bbf6d1d4">voxelmap.properties</file>
+        <file size="676" version="9a2437ceb2b81f76424df84449a9805d">voxelmap.properties</file>
         <file size="240" version="2b600749fb622f163f67ccde32935d49">voxelplayer.properties</file>
         <file size="62" version="c8db629f3c42a13369498929a0dd84b1">voxeltextures.properties</file>
         <file size="30" version="d97b4407a0b6d3685138de1c4263443a">voxelworld.properties</file>
@@ -234,6 +244,7 @@
         <file size="2403800" version="7beafb6adf1355e218d7ac6b74057159">AgentsAgriculture_1.0.6.zip</file>
         <file size="34728" version="fe95685faff66657a58fca57d2abbb7b">animated_mccapes-0.0.4b.jar</file>
         <file size="1077912" version="2021cb87f95aa2591627bf0b9c12d763">appeng-rv11-c.zip</file>
+        <file size="13742054" version="e2a3ad361945bc32a7a83c1ff236fe3a">ArsMagica_5.52.014.zip</file>
         <file size="460594" version="2ea84a364e8cabd257514065dbb17713">Artifice-1.1.2-144.jar</file>
         <file size="934857" version="2186608e188b4b3a4f8bfa693db200ce">BiblioCraft[v1.3.1].zip</file>
         <file size="2621430" version="115e1d4d386d5e218c65aef0e2c3a5b7">binnie-mods-1.7.0b.jar</file>
@@ -243,6 +254,7 @@
         <file size="508177" version="9f9d46ddbf9389734447ac60d7eb75fd">Chococraft_2.8.7.zip</file>
         <file size="336328" version="777e0e3884ae87cd3540a9dc41005217">CoFHCore-1.5.2.5.jar</file>
         <file size="1036312" version="1debf42cfda360ca9a790922e21f9c82">ComputerCraft1.53.zip</file>
+        <file size="184417" version="0197e732a5deaacad2881e81679fc651">coral-reef-universal-1.5.2-r2.zip</file>
         <file size="569200" version="407dad9c27d460a2a81f33db5fa9cd70">ee3-universal-pre1h-16.jar</file>
         <file size="418475" version="c1882f9d68b7fa191eaba2cc9a45e95b">ExtrabiomesXL-universal-1.5.2-3.13.4.jar</file>
         <file size="426606" version="52d15cda0538837b4b69457900bc0ddc">extrautils - 0.2.4d.zip</file>
@@ -294,12 +306,13 @@
         <file size="86862" version="3ec17555e255429433936302ff2661f2">PetBat_1.5.2.zip</file>
         <file size="620825" version="ad2d047c6de6db13a2d2f6bcfe3e3824">PortalGun1.5.2.zip</file>
         <file size="126752" version="a7c0efcbf98626c27c47736d0088dd76">PowerConverters-2.3.1-58.jar</file>
+        <file size="56760" version="8f7c72dbc9166dda198ddcf4c4ce87c7">profrenzy.zip</file>
         <file size="2424217" version="0c87fcbee5a93a2c0293f3e3129582c9">Railcraft_1.5.2-7.2.3.0.jar</file>
         <file size="34085" version="ebf01773c5920d155bbd98bd46a29e76">RedCoalCraft.zip</file>
         <file size="413809" version="c7eccd8653300b5e252f7449481ca322">redlogic-55.4.0.jar</file>
         <file size="400830" version="45cb708364161f52baf460d556bf9bfa">Reliquary1.0.6d.zip</file>
         <file size="128539" version="710bf046ba732873877e0922c4d4d11c">SecretRoomsMod-universal-4.6.0.283.zip</file>
-		<file size="684323" version="9273256f50669173833c8df466ecee9c">SGCraft-0.5.2-mc1.5.1.jar</file>
+        <file size="684323" version="9273256f50669173833c8df466ecee9c">SGCraft-0.5.2-mc1.5.1.jar</file>
         <file size="1809349" version="5fdbed82a477294eec11b1e5997ad939">StevesCarts2.0.0.a122.zip</file>
         <file size="2342875" version="b77556d35b226bab928e8e32a38d6961">TConstruct_1.3.6.7.jar</file>
         <file size="6436397" version="944c964d11c50f58c25b29a123c618f1">Thaumcraft3.0.5h.zip</file>
@@ -314,8 +327,8 @@
         <file size="34145" version="a94e8953eb0fc511c746194f2f375e1f">WirelessRedstone-PowerConfig-v1.0.zip</file>
         <file size="47126" version="8aa9fc6964e6ed1ffc8f377bea34660f">WirelessRedstone-Remote-v2.1.zip</file>
         <file size="273101" version="3a7d98ec03c16108b8e1c906cf1a63c4">WirelessRedstone-Universal-v1.7.zip</file>
+        <file size="336338" version="b7b0aa7984314ee4e6f1f4201781abed">ZansMinimap1.5.2.zip</file>
         <file size="311783" version="8630d4589018aa4c8af311dc30d32b04">[1.5.2]BetterStorage_0.6.2.23.zip</file>
-        <file size="252452" version="145105c4df42e4c391c0a88117de422f">[1.5.2]ReiMinimap_v3.3_06.zip</file>
     </filegroup>
     <filegroup dest="resources/mod/streaming/" source="resources/mod/streaming/">
         <file size="3008589" version="d18eefa73a8567c33017f8e1bb66f85d">themezelda.ogg</file>
@@ -323,8 +336,8 @@
     </filegroup>
     <filegroup dest="" source="">
         <file size="2306" version="f22eaf60ebe8246ae3cb3247027a8859">options.txt</file>
-        <file size="1980" version="7c3ff347a23b4879c3e314883c0c6777">README.txt</file>
-        <file size="135" version="d71efa8cfbbcc6d52f94e59519e31040">servers.dat</file>
+        <file size="1970" version="77dbc38282fa7e90b537399db0df2db6">README.txt</file>
+        <file size="130" version="8ffe70348dab06b7a2a0198ce1d66546">servers.dat</file>
         <file size="372" version="b092bba8063774a685f097abcc31acf5">wirelessRedstone.properties</file>
     </filegroup>
 </package>
