@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <update>
-    <id>Unity-one</id>
-    <latest>1.2.5</latest>
-    <name>Unity one modpack</name>
+    <id>Unity-2</id>
+    <latest>1.0.0</latest>
+    <name>Unity two modpack</name>
     <packageurl>package.xml</packageurl>
 </update>
