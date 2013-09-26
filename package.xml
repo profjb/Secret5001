@@ -127,7 +127,6 @@
     <filegroup dest="config/" source="config/">
         <file size="1379" version="5fbfe6c5fa98b6cb7464c2f8eadffcea">AdvancedSolarPanel.cfg</file>
         <file size="4829" version="ede368dcb16a0ec8c6d002078bd23239">AppliedEnergistics.cfg</file>
-        <file size="1094" version="f33694fd93fbcc338d0f27bd3a2e5d7a">ArchimedesShipsMod.cfg</file>
         <file size="3738" version="3e152495bbd1f22460da3ecb6840baeb">Artifice.cfg</file>
         <file size="315" version="34e6324c5b12f55e53e5cb98e836d6de">BasicComponents.cfg</file>
         <file size="2758" version="8823dbc8da9294a268b0c66aa966e964">BiblioCraft.cfg</file>
