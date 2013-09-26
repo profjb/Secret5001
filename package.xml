@@ -233,8 +233,7 @@
     <filegroup dest="mods/" source="mods/">
         <file size="2403800" version="7beafb6adf1355e218d7ac6b74057159">AgentsAgriculture_1.0.6.zip</file>
         <file size="34728" version="fe95685faff66657a58fca57d2abbb7b">animated_mccapes-0.0.4b.jar</file>
-        <file size="1077912" version="2021cb87f95aa2591627bf0b9c12d763">appeng-rv11-c.zip</file>
-        <file size="127065" version="43df0378a9319327b6221d9d432765ab">ArchimedesShips v1.2.0 (1).zip</file>
+        <file size="1110745" version="defe96dda4df7de2f5cfc2bb99993ca4">appeng-rv11-c.zip</file>
         <file size="460594" version="2ea84a364e8cabd257514065dbb17713">Artifice-1.1.2-144.jar</file>
         <file size="934857" version="2186608e188b4b3a4f8bfa693db200ce">BiblioCraft[v1.3.1].zip</file>
         <file size="2621430" version="115e1d4d386d5e218c65aef0e2c3a5b7">binnie-mods-1.7.0b.jar</file>
@@ -272,7 +271,7 @@
         <file size="1893717" version="25ea00ef0b5a6c6f449bdbb8517df826">MineFactoryReloaded-2.6.4-975.jar</file>
         <file size="118339" version="757e64e6cb3ecc56c165656e5523f54d">minepainter-build25-0606.zip</file>
         <file size="617731" version="77827538632664b52bb9db84d6318d6c">ModularForcefieldSystem-2.3.0.1.15.jar</file>
-        <file size="1860771" version="0ad0083c5a9d9fb4a60c4cbace1e33ad">ModularPowersuits-1.5.2-0.7.1-635.jar</file>
+        <file size="1836745" version="e3a553d3e455f22190e253e01badf9f5">ModularPowersuits-0.7.1-565.jar</file>
         <file size="100681" version="3a3c19968b8373146ca80243a94085e5">mod_AdvancedSolarPanels_3_3_7.zip</file>
         <file size="104784" version="c72b1b4061cb8f44312044629432664d">mod_hdskinsandcapes_2.1.3_mc1.5.2.litemod</file>
         <file size="11159" version="c521a16022c6711c262cbbc63fc6e3b1">mod_integratedsoundpacks_1.1.3_mc1.5.2.litemod</file>
@@ -304,7 +303,6 @@
         <file size="207033" version="b1ad42331ac2fe2f2b07e62d1773079b">TrailMix1.5.0v1.zip</file>
         <file size="9179916" version="ccf8dd1aa1cad6b56dad95fbd7e5e447">Traincraft-4.0.2_003.jar</file>
         <file size="304353" version="ffda60af6c272cc47bcc0efe6c44c6a7">tubestuff-55.0.4.jar</file>
-        <file size="102140" version="f0e022254b990a3f9ba48be193bca73a">TukMC_latest.zip</file>
         <file size="2866841" version="59994a85c4d611e99ce91bfaadc5e9b6">twilightforest-1.18.2.zip</file>
         <file size="71503" version="fe9f2aaa2e0586550498343f53debd49">VoxelSniperGUI_1.5.2_01(1).litemod</file>
         <file size="34145" version="a94e8953eb0fc511c746194f2f375e1f">WirelessRedstone-PowerConfig-v1.0.zip</file>
