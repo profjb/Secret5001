@@ -127,6 +127,7 @@
     <filegroup dest="config/" source="config/">
         <file size="1379" version="5fbfe6c5fa98b6cb7464c2f8eadffcea">AdvancedSolarPanel.cfg</file>
         <file size="4829" version="ede368dcb16a0ec8c6d002078bd23239">AppliedEnergistics.cfg</file>
+        <file size="1094" version="f33694fd93fbcc338d0f27bd3a2e5d7a">ArchimedesShipsMod.cfg</file>
         <file size="3738" version="3e152495bbd1f22460da3ecb6840baeb">Artifice.cfg</file>
         <file size="315" version="34e6324c5b12f55e53e5cb98e836d6de">BasicComponents.cfg</file>
         <file size="2758" version="8823dbc8da9294a268b0c66aa966e964">BiblioCraft.cfg</file>
@@ -269,6 +270,7 @@
         <file size="671518" version="5604594d1c9ac0c2f2c27a0777a3484a">magicbees-2.0.4.jar</file>
         <file size="1893717" version="25ea00ef0b5a6c6f449bdbb8517df826">MineFactoryReloaded-2.6.4-975.jar</file>
         <file size="118339" version="757e64e6cb3ecc56c165656e5523f54d">minepainter-build25-0606.zip</file>
+        <file size="810017" version="a6861ddd7821cbb92ddc60cd5eb35a92">miscperipherals-3.3e.jar</file>
         <file size="617731" version="77827538632664b52bb9db84d6318d6c">ModularForcefieldSystem-2.3.0.1.15.jar</file>
         <file size="1836745" version="e3a553d3e455f22190e253e01badf9f5">ModularPowersuits-0.7.1-565.jar</file>
         <file size="100681" version="3a3c19968b8373146ca80243a94085e5">mod_AdvancedSolarPanels_3_3_7.zip</file>
@@ -295,7 +297,7 @@
         <file size="128539" version="710bf046ba732873877e0922c4d4d11c">SecretRoomsMod-universal-4.6.0.283.zip</file>
         <file size="684323" version="9273256f50669173833c8df466ecee9c">SGCraft-0.5.2-mc1.5.1.jar</file>
         <file size="1809349" version="5fdbed82a477294eec11b1e5997ad939">StevesCarts2.0.0.a122.zip</file>
-        <file size="2342875" version="b77556d35b226bab928e8e32a38d6961">TConstruct_1.3.6.7.jar</file>
+        <file size="3999988" version="bba30b9a21f63a67e79930b3a29328f9">TConstruct_1.3.6.7.jar</file>
         <file size="6436397" version="944c964d11c50f58c25b29a123c618f1">Thaumcraft3.0.5h.zip</file>
         <file size="539429" version="3d39a6338434fff4a8fca4d49b680af7">Thaumic Tinkerer [1.0.7].zip</file>
         <file size="1153247" version="d8546026fae81221ccd6a1d31cd5acc6">ThermalExpansion-2.4.6.0.jar</file>
